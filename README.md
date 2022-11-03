@@ -12,7 +12,7 @@
 
 </div>
 
-<h1 align="center" style="font-size: 50px;">**Python** Programming with **Turtle** Library</h1>
+<h1 align="center" style="font-size: 50px;">Python Programming with Turtle Library</h1>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/6789/6789466.png" width="20"> Project List
 
