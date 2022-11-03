@@ -5,21 +5,16 @@
 </p>
 
 <div align="center">
-<!-- Shield Badge 1st way -->
 
-![version](https://img.shields.io/badge/Tested%20Version-2022%2e6%2e1-red.svg)
-![os](https://img.shields.io/badge/Tested%20OS-Kali%20Linux-blue)
-
-<!-- Shield Badge 2nd way -->
-
-  <img src="https://img.shields.io/badge/File-Markdown-lightgreen">
-  <img src="https://img.shields.io/badge/File Generate-03 Nov 2022-yellow">
+  <img src="https://img.shields.io/badge/Language-Python-cya">
+  <img src="https://img.shields.io/badge/LIbrary-Turtle-lightgreen">
+  <img src="https://img.shields.io/badge/File Generate-03 Nov 2022-blue">
 
 </div>
 
-<h1 align="center" style="font-size: 50px;">PROJECT TITLE</h1>
+<h1 align="center" style="font-size: 50px;"><strong>Python Programming with Turtle Library</strong></h1>
 
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.png" width="20"> Laravel Project
+# <img src="https://cdn-icons-png.flaticon.com/512/6789/6789466.png" width="20"> Python + Turtle = Awsome
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat eu nisl blandit cursus. Aenean lobortis tristique lectus, ac fringilla ligula gravida id. Integer at hendrerit risus. Vestibulum finibus, arcu vitae mattis volutpat, lectus augue maximus elit, vitae maximus justo velit sit amet dolor. Donec quis sollicitudin ex, luctus pretium tortor. Maecenas tortor enim, tempor at turpis sed, euismod vulputate dolor.
 
